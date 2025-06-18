@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Health",
+      "value": "5000"
+    },
+    {
+      "trait_type": "Mana",
+      "value": "1000"
+    },
+    {
+      "trait_type": "NW",
+      "value": "10000"
+    }
+  ],
+  "image": "https://bafybeiap5bipjnfo6er3tgyhh4gsii6q7ahnwc4jl5y72mfnvbbxgtdncu.ipfs.dweb.link?filename=pudgeNft.png",
+  "description": "Pudge.",
+  "name": "Pudge #1"
+}
