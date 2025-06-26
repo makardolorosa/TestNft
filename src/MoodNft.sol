@@ -58,7 +58,7 @@ contract MoodNft is ERC721 {
         // }
         string memory imageURI;
 
-        if (s_tokenIdToMood[tokenId] == Mood.SAD) {
+        if (s_tokenIdToMood[tokenId] == Mood.HAPPY) {
             imageURI = s_happySvgImageUri;
         } else {
             imageURI = s_sadSvgImageUri;
